@@ -1,6 +1,6 @@
 # Half Life 3
 
-Attention, ce project est une parodie de "Si Valve avait fait Half Life 3", nous ne voulons en aucun cas copiée Valve, nous prennons juste quelque base des jeux Half-life pour crée la parodie, le jeux sera basée sur l'histoire de Half Life 2 - Episode 1 et 2, ou que le HL2, nous ne sommes pas encore sur.
+Attention, ce project est une parodie de "Si Valve avait fait Half Life 3", nous ne voulons en aucun cas copiée Valve, nous prennons juste quelque base des jeux Half-life pour crée la parodie, le jeux sera basée sur l'histoire du Jeux "HL3" sera bassée sur la suite normalement prévue pour Half Life 2 - Episode Trois, que valve a annullée (( comme HL3 ))
 Le jeux ne sera pas disponible pour le publique pour le moment.
 
 # COPYRIGHT VALVE
